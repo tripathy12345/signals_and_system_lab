@@ -1,5 +1,4 @@
-# signals_and_system_lab
+####Signals and system lab using Python for undergraduate students######
 Experiments of signals and system lab using python
-
-Prepared by Dr. Rajesh Kumar Tripathy at BITS Pilani Hyderabad Campus
+Prepared by Dr. Rajesh Kumar Tripathy
 
